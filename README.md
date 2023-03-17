@@ -11,4 +11,4 @@ For more details regarding applicabilty of these network weights, we refer to ou
 ## Citation
 If you use these network weights for your own research, please cite our publication!
 
-M.H.A. Janse, L.M. Janssen, B.H.M. van der Velden, M.R. Moman, E.J.M. Wolters-van der Ben, M.C.J.M. Kock, M.A. Viergever, P.J. van Diest, K.G.A. Gilhuijs, "Deep learning-based segmentation of locally advanced breast cancer on MRI in relation to residual cancer burden: a multi-institutional cohort study", *Journal of Magnetic Resonance Imaging*, Accepted for Publication, 2023
+M.H.A. Janse, L.M. Janssen, B.H.M. van der Velden, M.R. Moman, E.J.M. Wolters-van der Ben, M.C.J.M. Kock, M.A. Viergever, P.J. van Diest, K.G.A. Gilhuijs, "Deep learning-based segmentation of locally advanced breast cancer on MRI in relation to residual cancer burden: a multi-institutional cohort study", *Journal of Magnetic Resonance Imaging*, In Press, 2023. DOI: [10.1002/jmri.28679](https://dx.doi.org/10.1002/jmri.28679)
